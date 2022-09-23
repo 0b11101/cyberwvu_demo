@@ -1,1 +1,1 @@
-print("this is a print func")
+print("test new ssh")
